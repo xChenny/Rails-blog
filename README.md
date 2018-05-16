@@ -1,3 +1,27 @@
+# Simple Blog
+
+## Installation
+
+1. Clone the repo:
+
+`git clone https://github.com/xchenny/Rails-blog.git`
+
+2. Enter the directory:
+
+`cd Rails-blog`
+
+3. Install all of the required Gems
+
+`bundle install`
+
+4. Perform the necessary DB migrations to set up the DB
+
+`rake db:migrate`
+
+5. Run the server
+
+`rails server`
+
 # Things Learned About Ruby on Rails
 
 ## Rails Philosophy
